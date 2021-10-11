@@ -66,6 +66,12 @@ I/O burst/ Process execution continues with a CPU burst.
 
 CPU scheduler/ The selection process is carried out by the CPU scheduler
 
+
+
+![image](https://user-images.githubusercontent.com/63984422/136819759-07093d7f-5335-4ed6-9d76-43e456299cb2.png)
+
+
+
 nonpreemptive or cooperative/ When scheduling takes place only under circumstances 1 and 4, we say that the scheduling scheme is nonpreemptive or cooperative.
 
 Preemptive/ when a scheduling doesn't take place only under circumstances 1 and 4
