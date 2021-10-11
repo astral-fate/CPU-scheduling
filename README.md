@@ -68,8 +68,7 @@ CPU scheduler/ The selection process is carried out by the CPU scheduler
 
 
 
-![image](https://user-images.githubusercontent.com/63984422/136819759-07093d7f-5335-4ed6-9d76-43e456299cb2.png)
-
+![image](https://user-images.githubusercontent.com/63984422/136819862-3f4a2930-eee5-4981-95db-8bea4e765252.png)
 
 
 nonpreemptive or cooperative/ When scheduling takes place only under circumstances 1 and 4, we say that the scheduling scheme is nonpreemptive or cooperative.
